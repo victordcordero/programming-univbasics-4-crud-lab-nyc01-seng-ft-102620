@@ -1,5 +1,3 @@
-require 'pry'
-
 def create_an_empty_array
   []
 end
@@ -25,7 +23,6 @@ array.shift
 end
 
 def retrieve_element_from_index(array, index_number)
-binding.pry
 end
 
 def retrieve_first_element_from_array(array)
