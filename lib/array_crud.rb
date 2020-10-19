@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array[
-"dog" => "pet",
+"dog" => "pet"
 "apple" => "food"
 "plane" => "transportation"
 "brother" => "family"
