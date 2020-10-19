@@ -3,13 +3,12 @@ def create_an_empty_array
 end
 
 def create_an_array
-  ["fish","bear","cat","dog"]
+
 end
 
 def add_element_to_end_of_array(array, element)
-end
 
-add_element_to_start_of_array.push("value")
+end
 
 def add_element_to_start_of_array(array, element)
 
