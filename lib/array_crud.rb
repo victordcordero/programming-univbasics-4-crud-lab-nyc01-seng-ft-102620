@@ -37,5 +37,5 @@ array[5]
 end
 
 def update_element_from_index(array, index_number, element)
-element[1]
+binding.pry
 end
