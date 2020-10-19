@@ -1,3 +1,5 @@
+require 'pry'
+
 def create_an_empty_array
   []
 end
@@ -31,7 +33,7 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-
+binding.pry
 end
 
 def update_element_from_index(array, index_number, element)
